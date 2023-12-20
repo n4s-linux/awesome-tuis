@@ -247,6 +247,8 @@ List of projects that provide terminal user interfaces
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 - [yazi](https://github.com/sxyazi/yazi) Blazing fast terminal file manager written in Rust, based on async I/O.
+- [n4s](https://github.com/n4s-linux/n4s-gratis-regnskab) Danish ERP / Double Accounting System for efficient bookkeeping - will be translated to english in the future.
+
 ---
 </details>
 
